@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @naufaldi001
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science, web developer
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @naufaldi
+- 👀 I’m interested in data science, game developer, digital marketing
+- 🌱 I’m currently learning data science and machine learning
+- 💞️ I’m looking to collaborate on data science interenship
 - 📫 How to reach me ...
 
 <!---
